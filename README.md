@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hi, I'm Colt
+🌱 I’m currently a MSCS student at CU Boulder
+🔭 I’m currently working on a Full-Stack Property Management Web App...
 <!--
 **coltiq/coltiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
